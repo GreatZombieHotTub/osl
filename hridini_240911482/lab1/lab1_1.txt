@@ -1,0 +1,30 @@
+4ITB2@debian:~/lab1/hridini_240911482$ cd lab1
+4ITB2@debian:~/lab1/hridini_240911482/lab1$ pwd
+/home/4ITB2/lab1/hridini_240911482/lab1
+4ITB2@debian:~/lab1/hridini_240911482/lab1$ date
+Wednesday 14 January 2026 09:34:34 AM IST
+
+4ITB2@debian:~/hridini_240911482/lab1$ head -n 5 sample.txt
+hi
+this is os lab
+testing...
+blah blah
+abc
+4ITB2@debian:~/hridini_240911482/lab1$ cp sample.txt f1
+4ITB2@debian:~/hridini_240911482/lab1$ cd f1
+4ITB2@debian:~/hridini_240911482/lab1/f1$ tail sample.txt
+hi
+this is os lab
+testing...
+blah blah
+abc
+xyz
+ong 
+fr
+
+4ITB2@debian:~/hridini_240911482/lab1$ ls
+f1  sample.txt
+4ITB2@debian:~/hridini_240911482/lab1$ cd ..
+4ITB2@debian:~/hridini_240911482$ ls
+f1  lab1
+
